@@ -1,0 +1,11 @@
+{
+  "name": "hateoas",
+  "version": "1.0.0",
+  "description": "testing hypertext consumption from POJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "leebrandt@gmail.com",
+  "license": "Apache-2.0"
+}
